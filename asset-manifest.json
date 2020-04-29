@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pokerpoll/static/css/main.a39ec89e.chunk.css",
-    "main.js": "/pokerpoll/static/js/main.a08137d6.chunk.js",
-    "main.js.map": "/pokerpoll/static/js/main.a08137d6.chunk.js.map",
+    "main.js": "/pokerpoll/static/js/main.799539b1.chunk.js",
+    "main.js.map": "/pokerpoll/static/js/main.799539b1.chunk.js.map",
     "runtime-main.js": "/pokerpoll/static/js/runtime-main.18585f0d.js",
     "runtime-main.js.map": "/pokerpoll/static/js/runtime-main.18585f0d.js.map",
     "static/js/2.c3515680.chunk.js": "/pokerpoll/static/js/2.c3515680.chunk.js",
     "static/js/2.c3515680.chunk.js.map": "/pokerpoll/static/js/2.c3515680.chunk.js.map",
     "index.html": "/pokerpoll/index.html",
-    "precache-manifest.6a168c18c48dcf59901caa806a526047.js": "/pokerpoll/precache-manifest.6a168c18c48dcf59901caa806a526047.js",
+    "precache-manifest.f9b4eafb3d46ffa0de6d94388e27d3a4.js": "/pokerpoll/precache-manifest.f9b4eafb3d46ffa0de6d94388e27d3a4.js",
     "service-worker.js": "/pokerpoll/service-worker.js",
     "static/css/main.a39ec89e.chunk.css.map": "/pokerpoll/static/css/main.a39ec89e.chunk.css.map",
     "static/js/2.c3515680.chunk.js.LICENSE.txt": "/pokerpoll/static/js/2.c3515680.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.18585f0d.js",
     "static/js/2.c3515680.chunk.js",
     "static/css/main.a39ec89e.chunk.css",
-    "static/js/main.a08137d6.chunk.js"
+    "static/js/main.799539b1.chunk.js"
   ]
 }
