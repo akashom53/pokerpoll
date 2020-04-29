@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9699382bb677e85cecf5589fbb5e3907",
+    "revision": "aa0c67eed9cdc7ff809ca804016f2ba4",
     "url": "/pokerpoll/index.html"
   },
   {
-    "revision": "54de2d0e0ad78afc7738",
+    "revision": "5d17a28565e6fdd9dd9f",
     "url": "/pokerpoll/static/css/main.a39ec89e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokerpoll/static/js/2.c3515680.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54de2d0e0ad78afc7738",
-    "url": "/pokerpoll/static/js/main.89508aab.chunk.js"
+    "revision": "5d17a28565e6fdd9dd9f",
+    "url": "/pokerpoll/static/js/main.a08137d6.chunk.js"
   },
   {
     "revision": "83c40b1abc82647eb02b",
